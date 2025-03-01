@@ -1,4 +1,4 @@
-# flutter_notes
+# Flutter_notes
 
 A new Flutter project.
 
